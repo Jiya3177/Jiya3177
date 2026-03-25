@@ -40,7 +40,6 @@ I love building **clean, scalable software** and tackling **complex problems** w
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiya3177&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Jiya3177&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya3177&theme=dark&hide_border=false&include_all_commits=false&layout=compact)  
 
 
