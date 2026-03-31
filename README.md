@@ -51,17 +51,13 @@ I love building **clean, scalable software** and tackling **complex problems** w
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jiya3177&show_icons=true&theme=dark" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya3177&layout=compact&theme=dark" height="170">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiya3177&show_icons=true&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya3177&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://visitcount.itsvg.in/api?id=Jiya3177&icon=0&color=0)
