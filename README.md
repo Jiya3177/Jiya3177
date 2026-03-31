@@ -53,11 +53,7 @@ I love building **clean, scalable software** and tackling **complex problems** w
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiya3177&show_icons=true&theme=tokyonight" />
-</p>
+![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiya3177&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya3177&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya3177&layout=compact&theme=tokyonight)
 
